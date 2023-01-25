@@ -1735,8 +1735,8 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     PowerOffAlarm \
-    HotwordEnrollmentOKGoogle \
-    HotwordEnrollmentXGoogle \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     QtiTelephonyService \
     imssettings \
     uceShimService \
